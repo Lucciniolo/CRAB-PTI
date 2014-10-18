@@ -1,0 +1,9 @@
+F:\PTI\PTI\PTI CRAB 2008\Backup\PTI CRAB\obj\Release\ResolveAssemblyReference.cache
+F:\PTI\PTI\PTI CRAB 2008\Backup\PTI CRAB\obj\Release\WindowsFormsApplication1.Form1.resources
+F:\PTI\PTI\PTI CRAB 2008\Backup\PTI CRAB\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+F:\PTI\PTI\PTI CRAB 2008\Backup\PTI CRAB\obj\Release\PTI CRAB.csproj.GenerateResource.Cache
+F:\PTI\PTI\PTI CRAB 2008\Backup\PTI CRAB\bin\Release\PTI CRAB.exe
+F:\PTI\PTI\PTI CRAB 2008\Backup\PTI CRAB\bin\Release\PTI CRAB.pdb
+F:\PTI\PTI\PTI CRAB 2008\Backup\PTI CRAB\obj\Release\PTI CRAB.exe
+F:\PTI\PTI\PTI CRAB 2008\Backup\PTI CRAB\obj\Release\PTI CRAB.pdb
+F:\PTI\PTI\PTI CRAB 2008\Backup\PTI CRAB\obj\Release\WindowsFormsApplication1.Form_Tech.resources
